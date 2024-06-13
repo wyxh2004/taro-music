@@ -57,7 +57,7 @@ export const baseUrl: string = 'http://localhost:3000' // 这里配置的这个u
 ```
 启动后端接口服务
 
-git clone https://github.com/Binaryify/NeteaseCloudMusicApi.git
+git clone git@gitlab.com:Binaryify/neteasecloudmusicapi.git
 
 cd NeteaseCloudMusicApi
 
